@@ -1,0 +1,189 @@
+{
+  "TabsTest:TabsTest#canSelectTabs" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "18e6af9ae56a2d31",
+      "status" : "passed",
+      "time" : {
+        "duration" : 14982
+      }
+    } ]
+  },
+  "OpenLoginTest:OpenLoginTest#canOpenLoginFromLoginButtonOnHomePage" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5e71740feb650f3d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 19113
+      }
+    } ]
+  },
+  "OpenLoginTest:OpenLoginTest#canOpenLoginFromLoginLinkOnForgotPasswordPage" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4bdad27c1d7eb5fa",
+      "status" : "passed",
+      "time" : {
+        "duration" : 24356
+      }
+    } ]
+  },
+  "CanOpenConstructorTest:CanOpenConstructorTest#canOpenConstructorFromConstructorLinkOnProfilePage" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1d77482cf5c6b9fe",
+      "status" : "passed",
+      "time" : {
+        "duration" : 11140
+      }
+    } ]
+  },
+  "CanLogoutTest:CanLogoutTest#canLogout" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "eabeafacd5fc7344",
+      "status" : "passed",
+      "time" : {
+        "duration" : 21332
+      }
+    } ]
+  },
+  "OpenLoginTest:OpenLoginTest#canOpenLoginFromLoginLinkOnRegistrationPage" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9a79629ba4a211f0",
+      "status" : "passed",
+      "time" : {
+        "duration" : 10788
+      }
+    } ]
+  },
+  "RegistrationTest:RegistrationTest#canRegisterUser" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "73d34a7dcbde5daa",
+      "status" : "passed",
+      "time" : {
+        "duration" : 8158
+      }
+    } ]
+  },
+  "CanOpenConstructorTest:CanOpenConstructorTest#canOpenConstructorFromHomeLinkOnProfilePage" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1f6ea58180c188ec",
+      "status" : "passed",
+      "time" : {
+        "duration" : 8612
+      }
+    } ]
+  },
+  "LoginTest:LoginTest#canLogin" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c8f386bf3ff1f07",
+      "status" : "passed",
+      "time" : {
+        "duration" : 7038
+      }
+    } ]
+  },
+  "RegistrationTest:RegistrationTest#cannotRegisterUserWithShortPassword" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cf1a9db6830bc472",
+      "status" : "passed",
+      "time" : {
+        "duration" : 26952
+      }
+    } ]
+  },
+  "OpenLoginTest:OpenLoginTest#canOpenLoginFromCabinetLinkOnHomePage" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a74354ba1d5ab8a9",
+      "status" : "passed",
+      "time" : {
+        "duration" : 35234
+      }
+    } ]
+  }
+}

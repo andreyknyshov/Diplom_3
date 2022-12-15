@@ -1,0 +1,53 @@
+{
+  "uid" : "1f6ea58180c188ec",
+  "name" : "canOpenConstructorFromHomeLinkOnProfilePage",
+  "historyId" : "CanOpenConstructorTest:CanOpenConstructorTest#canOpenConstructorFromHomeLinkOnProfilePage",
+  "time" : {
+    "duration" : 8612
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5000951794057fd3",
+      "name" : "System out",
+      "source" : "5000951794057fd3.txt",
+      "type" : "text/plain",
+      "size" : 294
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "CanOpenConstructorTest"
+  }, {
+    "name" : "testClass",
+    "value" : "CanOpenConstructorTest"
+  }, {
+    "name" : "package",
+    "value" : "CanOpenConstructorTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1f6ea58180c188ec.json",
+  "parameterValues" : [ ]
+}
