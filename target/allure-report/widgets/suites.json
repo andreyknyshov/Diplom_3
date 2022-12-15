@@ -1,0 +1,70 @@
+{
+  "total" : 6,
+  "items" : [ {
+    "uid" : "5f9e4a89137c16b1c497515159ec7419",
+    "name" : "OpenLoginTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "14845bafe4bbdb11d2e94a4184fa8d72",
+    "name" : "CanOpenConstructorTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "69284e8223e4673c9952b238191a3c05",
+    "name" : "RegistrationTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "55dec6b83ec9296aa6aeca55ff3ac375",
+    "name" : "TabsTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "8842b97655e6d2288eca27155d6b223c",
+    "name" : "CanLogoutTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "b9a196f305ae86bf6bf452c18364a114",
+    "name" : "LoginTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

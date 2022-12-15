@@ -1,0 +1,150 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "OpenLoginTest",
+    "children" : [ {
+      "name" : "canOpenLoginFromLoginLinkOnRegistrationPage",
+      "uid" : "9a79629ba4a211f0",
+      "parentUid" : "5f9e4a89137c16b1c497515159ec7419",
+      "status" : "passed",
+      "time" : {
+        "duration" : 10788
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "canOpenLoginFromLoginButtonOnHomePage",
+      "uid" : "5e71740feb650f3d",
+      "parentUid" : "5f9e4a89137c16b1c497515159ec7419",
+      "status" : "passed",
+      "time" : {
+        "duration" : 19113
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "canOpenLoginFromLoginLinkOnForgotPasswordPage",
+      "uid" : "4bdad27c1d7eb5fa",
+      "parentUid" : "5f9e4a89137c16b1c497515159ec7419",
+      "status" : "passed",
+      "time" : {
+        "duration" : 24356
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "canOpenLoginFromCabinetLinkOnHomePage",
+      "uid" : "a74354ba1d5ab8a9",
+      "parentUid" : "5f9e4a89137c16b1c497515159ec7419",
+      "status" : "passed",
+      "time" : {
+        "duration" : 35234
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "5f9e4a89137c16b1c497515159ec7419"
+  }, {
+    "name" : "CanOpenConstructorTest",
+    "children" : [ {
+      "name" : "canOpenConstructorFromHomeLinkOnProfilePage",
+      "uid" : "1f6ea58180c188ec",
+      "parentUid" : "14845bafe4bbdb11d2e94a4184fa8d72",
+      "status" : "passed",
+      "time" : {
+        "duration" : 8612
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "canOpenConstructorFromConstructorLinkOnProfilePage",
+      "uid" : "1d77482cf5c6b9fe",
+      "parentUid" : "14845bafe4bbdb11d2e94a4184fa8d72",
+      "status" : "passed",
+      "time" : {
+        "duration" : 11140
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "14845bafe4bbdb11d2e94a4184fa8d72"
+  }, {
+    "name" : "TabsTest",
+    "children" : [ {
+      "name" : "canSelectTabs",
+      "uid" : "18e6af9ae56a2d31",
+      "parentUid" : "55dec6b83ec9296aa6aeca55ff3ac375",
+      "status" : "passed",
+      "time" : {
+        "duration" : 14982
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "55dec6b83ec9296aa6aeca55ff3ac375"
+  }, {
+    "name" : "RegistrationTest",
+    "children" : [ {
+      "name" : "cannotRegisterUserWithShortPassword",
+      "uid" : "cf1a9db6830bc472",
+      "parentUid" : "69284e8223e4673c9952b238191a3c05",
+      "status" : "passed",
+      "time" : {
+        "duration" : 26952
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "canRegisterUser",
+      "uid" : "73d34a7dcbde5daa",
+      "parentUid" : "69284e8223e4673c9952b238191a3c05",
+      "status" : "passed",
+      "time" : {
+        "duration" : 8158
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "69284e8223e4673c9952b238191a3c05"
+  }, {
+    "name" : "CanLogoutTest",
+    "children" : [ {
+      "name" : "canLogout",
+      "uid" : "eabeafacd5fc7344",
+      "parentUid" : "8842b97655e6d2288eca27155d6b223c",
+      "status" : "passed",
+      "time" : {
+        "duration" : 21332
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "8842b97655e6d2288eca27155d6b223c"
+  }, {
+    "name" : "LoginTest",
+    "children" : [ {
+      "name" : "canLogin",
+      "uid" : "c8f386bf3ff1f07",
+      "parentUid" : "b9a196f305ae86bf6bf452c18364a114",
+      "status" : "passed",
+      "time" : {
+        "duration" : 7038
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "b9a196f305ae86bf6bf452c18364a114"
+  } ]
+}

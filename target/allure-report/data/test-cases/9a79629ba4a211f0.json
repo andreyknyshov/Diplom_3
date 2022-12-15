@@ -1,0 +1,53 @@
+{
+  "uid" : "9a79629ba4a211f0",
+  "name" : "canOpenLoginFromLoginLinkOnRegistrationPage",
+  "historyId" : "OpenLoginTest:OpenLoginTest#canOpenLoginFromLoginLinkOnRegistrationPage",
+  "time" : {
+    "duration" : 10788
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d43e15b924be081d",
+      "name" : "System out",
+      "source" : "d43e15b924be081d.txt",
+      "type" : "text/plain",
+      "size" : 276
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "OpenLoginTest"
+  }, {
+    "name" : "testClass",
+    "value" : "OpenLoginTest"
+  }, {
+    "name" : "package",
+    "value" : "OpenLoginTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9a79629ba4a211f0.json",
+  "parameterValues" : [ ]
+}

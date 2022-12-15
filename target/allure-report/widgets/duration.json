@@ -1,0 +1,89 @@
+[ {
+  "uid" : "9a79629ba4a211f0",
+  "name" : "canOpenLoginFromLoginLinkOnRegistrationPage",
+  "time" : {
+    "duration" : 10788
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1f6ea58180c188ec",
+  "name" : "canOpenConstructorFromHomeLinkOnProfilePage",
+  "time" : {
+    "duration" : 8612
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "18e6af9ae56a2d31",
+  "name" : "canSelectTabs",
+  "time" : {
+    "duration" : 14982
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5e71740feb650f3d",
+  "name" : "canOpenLoginFromLoginButtonOnHomePage",
+  "time" : {
+    "duration" : 19113
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4bdad27c1d7eb5fa",
+  "name" : "canOpenLoginFromLoginLinkOnForgotPasswordPage",
+  "time" : {
+    "duration" : 24356
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cf1a9db6830bc472",
+  "name" : "cannotRegisterUserWithShortPassword",
+  "time" : {
+    "duration" : 26952
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "73d34a7dcbde5daa",
+  "name" : "canRegisterUser",
+  "time" : {
+    "duration" : 8158
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a74354ba1d5ab8a9",
+  "name" : "canOpenLoginFromCabinetLinkOnHomePage",
+  "time" : {
+    "duration" : 35234
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eabeafacd5fc7344",
+  "name" : "canLogout",
+  "time" : {
+    "duration" : 21332
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c8f386bf3ff1f07",
+  "name" : "canLogin",
+  "time" : {
+    "duration" : 7038
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1d77482cf5c6b9fe",
+  "name" : "canOpenConstructorFromConstructorLinkOnProfilePage",
+  "time" : {
+    "duration" : 11140
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,53 @@
+{
+  "uid" : "a74354ba1d5ab8a9",
+  "name" : "canOpenLoginFromCabinetLinkOnHomePage",
+  "historyId" : "OpenLoginTest:OpenLoginTest#canOpenLoginFromCabinetLinkOnHomePage",
+  "time" : {
+    "duration" : 35234
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d43e15b924be081d",
+      "name" : "System out",
+      "source" : "d43e15b924be081d.txt",
+      "type" : "text/plain",
+      "size" : 276
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "OpenLoginTest"
+  }, {
+    "name" : "testClass",
+    "value" : "OpenLoginTest"
+  }, {
+    "name" : "package",
+    "value" : "OpenLoginTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a74354ba1d5ab8a9.json",
+  "parameterValues" : [ ]
+}

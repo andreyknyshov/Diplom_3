@@ -1,0 +1,53 @@
+{
+  "uid" : "18e6af9ae56a2d31",
+  "name" : "canSelectTabs",
+  "historyId" : "TabsTest:TabsTest#canSelectTabs",
+  "time" : {
+    "duration" : 14982
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a5958044579a3075",
+      "name" : "System out",
+      "source" : "a5958044579a3075.txt",
+      "type" : "text/plain",
+      "size" : 266
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "TabsTest"
+  }, {
+    "name" : "testClass",
+    "value" : "TabsTest"
+  }, {
+    "name" : "package",
+    "value" : "TabsTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "18e6af9ae56a2d31.json",
+  "parameterValues" : [ ]
+}

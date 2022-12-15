@@ -1,0 +1,53 @@
+{
+  "uid" : "eabeafacd5fc7344",
+  "name" : "canLogout",
+  "historyId" : "CanLogoutTest:CanLogoutTest#canLogout",
+  "time" : {
+    "duration" : 21332
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "200265bb2eb758cc",
+      "name" : "System out",
+      "source" : "200265bb2eb758cc.txt",
+      "type" : "text/plain",
+      "size" : 276
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "CanLogoutTest"
+  }, {
+    "name" : "testClass",
+    "value" : "CanLogoutTest"
+  }, {
+    "name" : "package",
+    "value" : "CanLogoutTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eabeafacd5fc7344.json",
+  "parameterValues" : [ ]
+}
